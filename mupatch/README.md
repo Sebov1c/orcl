@@ -1,4 +1,4 @@
-# Mupatch - Simple OPatcher script by Muniqsoft GmbH
+# Mupatch - Simple OPatcher script
 
 Version:	1.0 (21.10.2016)
 Author:		sl
